@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="proj4_adn_adp"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/root/CS61C/Projects/proj4-adn-adp/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/root/CS61C/Projects/proj4-adn-adp/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/root/CS61C/Projects/proj4-adn-adp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/root/CS61C/Projects/proj4-adn-adp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/root/CS61C/Projects/proj4-adn-adp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/root/CS61C/Projects/proj4-adn-adp/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/root/CS61C/Projects/proj4-adn-adp/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/root/CS61C/Projects/proj4-adn-adp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/root/CS61C/Projects/proj4-adn-adp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/root/CS61C/Projects/proj4-adn-adp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/root/CS61C/Projects/proj4-adn-adp/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/root/CS61C/Projects/proj4-adn-adp/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/root/CS61C/Projects/proj4-adn-adp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/root/CS61C/Projects/proj4-adn-adp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/root/CS61C/Projects/proj4-adn-adp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="proj4_adn_adp">
+				<Option output="/root/CS61C/Projects/proj4-adn-adp/cmake-build-debug/proj4_adn_adp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/root/CS61C/Projects/proj4-adn-adp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/root/CS61C/Projects/proj4-adn-adp/cmake-build-debug/Makefile&quot;  VERBOSE=1 proj4_adn_adp"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/root/CS61C/Projects/proj4-adn-adp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/root/CS61C/Projects/proj4-adn-adp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/root/CS61C/Projects/proj4-adn-adp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="proj4_adn_adp/fast">
+				<Option output="/root/CS61C/Projects/proj4-adn-adp/cmake-build-debug/proj4_adn_adp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/root/CS61C/Projects/proj4-adn-adp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/root/CS61C/Projects/proj4-adn-adp/cmake-build-debug/Makefile&quot;  VERBOSE=1 proj4_adn_adp/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/root/CS61C/Projects/proj4-adn-adp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/root/CS61C/Projects/proj4-adn-adp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/root/CS61C/Projects/proj4-adn-adp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/root/CS61C/Projects/proj4-adn-adp/part1/cacheRead.c">
+			<Option target="proj4_adn_adp"/>
+		</Unit>
+		<Unit filename="/root/CS61C/Projects/proj4-adn-adp/part1/cacheRead.h">
+			<Option target="proj4_adn_adp"/>
+		</Unit>
+		<Unit filename="/root/CS61C/Projects/proj4-adn-adp/part1/cacheWrite.c">
+			<Option target="proj4_adn_adp"/>
+		</Unit>
+		<Unit filename="/root/CS61C/Projects/proj4-adn-adp/part1/cacheWrite.h">
+			<Option target="proj4_adn_adp"/>
+		</Unit>
+		<Unit filename="/root/CS61C/Projects/proj4-adn-adp/part1/getFromCache.c">
+			<Option target="proj4_adn_adp"/>
+		</Unit>
+		<Unit filename="/root/CS61C/Projects/proj4-adn-adp/part1/getFromCache.h">
+			<Option target="proj4_adn_adp"/>
+		</Unit>
+		<Unit filename="/root/CS61C/Projects/proj4-adn-adp/part1/mem.c">
+			<Option target="proj4_adn_adp"/>
+		</Unit>
+		<Unit filename="/root/CS61C/Projects/proj4-adn-adp/part1/mem.h">
+			<Option target="proj4_adn_adp"/>
+		</Unit>
+		<Unit filename="/root/CS61C/Projects/proj4-adn-adp/part1/part1Main.c">
+			<Option target="proj4_adn_adp"/>
+		</Unit>
+		<Unit filename="/root/CS61C/Projects/proj4-adn-adp/part1/setInCache.c">
+			<Option target="proj4_adn_adp"/>
+		</Unit>
+		<Unit filename="/root/CS61C/Projects/proj4-adn-adp/part1/setInCache.h">
+			<Option target="proj4_adn_adp"/>
+		</Unit>
+		<Unit filename="/root/CS61C/Projects/proj4-adn-adp/part1/utils.c">
+			<Option target="proj4_adn_adp"/>
+		</Unit>
+		<Unit filename="/root/CS61C/Projects/proj4-adn-adp/part1/utils.h">
+			<Option target="proj4_adn_adp"/>
+		</Unit>
+		<Unit filename="/root/CS61C/Projects/proj4-adn-adp/part2/hitRate.c">
+			<Option target="proj4_adn_adp"/>
+		</Unit>
+		<Unit filename="/root/CS61C/Projects/proj4-adn-adp/part2/hitRate.h">
+			<Option target="proj4_adn_adp"/>
+		</Unit>
+		<Unit filename="/root/CS61C/Projects/proj4-adn-adp/part2/part2Main.c">
+			<Option target="proj4_adn_adp"/>
+		</Unit>
+		<Unit filename="/root/CS61C/Projects/proj4-adn-adp/part2/problem1.c">
+			<Option target="proj4_adn_adp"/>
+		</Unit>
+		<Unit filename="/root/CS61C/Projects/proj4-adn-adp/part2/problem1.h">
+			<Option target="proj4_adn_adp"/>
+		</Unit>
+		<Unit filename="/root/CS61C/Projects/proj4-adn-adp/part2/problem2.c">
+			<Option target="proj4_adn_adp"/>
+		</Unit>
+		<Unit filename="/root/CS61C/Projects/proj4-adn-adp/part2/problem2.h">
+			<Option target="proj4_adn_adp"/>
+		</Unit>
+		<Unit filename="/root/CS61C/Projects/proj4-adn-adp/part2/problem3.c">
+			<Option target="proj4_adn_adp"/>
+		</Unit>
+		<Unit filename="/root/CS61C/Projects/proj4-adn-adp/part2/problem3.h">
+			<Option target="proj4_adn_adp"/>
+		</Unit>
+		<Unit filename="/root/CS61C/Projects/proj4-adn-adp/part3/coherenceRead.c">
+			<Option target="proj4_adn_adp"/>
+		</Unit>
+		<Unit filename="/root/CS61C/Projects/proj4-adn-adp/part3/coherenceRead.h">
+			<Option target="proj4_adn_adp"/>
+		</Unit>
+		<Unit filename="/root/CS61C/Projects/proj4-adn-adp/part3/coherenceUtils.c">
+			<Option target="proj4_adn_adp"/>
+		</Unit>
+		<Unit filename="/root/CS61C/Projects/proj4-adn-adp/part3/coherenceUtils.h">
+			<Option target="proj4_adn_adp"/>
+		</Unit>
+		<Unit filename="/root/CS61C/Projects/proj4-adn-adp/part3/coherenceWrite.c">
+			<Option target="proj4_adn_adp"/>
+		</Unit>
+		<Unit filename="/root/CS61C/Projects/proj4-adn-adp/part3/coherenceWrite.h">
+			<Option target="proj4_adn_adp"/>
+		</Unit>
+		<Unit filename="/root/CS61C/Projects/proj4-adn-adp/part3/part3Main.c">
+			<Option target="proj4_adn_adp"/>
+		</Unit>
+		<Unit filename="/root/CS61C/Projects/proj4-adn-adp/testFiles/part1UnitTests.c">
+			<Option target="proj4_adn_adp"/>
+		</Unit>
+		<Unit filename="/root/CS61C/Projects/proj4-adn-adp/testFiles/part2UnitTests.c">
+			<Option target="proj4_adn_adp"/>
+		</Unit>
+		<Unit filename="/root/CS61C/Projects/proj4-adn-adp/testFiles/part3UnitTests.c">
+			<Option target="proj4_adn_adp"/>
+		</Unit>
+		<Unit filename="/root/CS61C/Projects/proj4-adn-adp/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
